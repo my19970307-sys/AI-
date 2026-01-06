@@ -1,0 +1,7 @@
+{
+  "name": "DesignCheck AI - 专业 UI 审计专家",
+  "description": "基于 AI 的 UI 设计自动识别与矫正平台，简化从文件上传到自动化优化建议的设计审计流程。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
